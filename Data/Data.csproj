@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>FlyingSaucer.Data</AssemblyName>
-    <RootNamespace>FlyingSaucer.Data</RootNamespace>
+    <AssemblyName>TheFlyingSaucer.Data</AssemblyName>
+    <RootNamespace>TheFlyingSaucer.Data</RootNamespace>
   </PropertyGroup>
 
 </Project>

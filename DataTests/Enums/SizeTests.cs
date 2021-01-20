@@ -7,9 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
-using FlyingSaucer.Data.Enums;
+using TheFlyingSaucer.Data.Enums;
 
-namespace FlyingSaucer.DataTests.Enums
+namespace TheFlyingSaucer.DataTests.Enums
 {
     /// <summary>
     /// A class contianing unit tests for the Size enumeration

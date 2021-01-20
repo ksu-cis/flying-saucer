@@ -5,9 +5,9 @@
 
     <IsPackable>false</IsPackable>
 
-    <AssemblyName>FlyingSaucer.DataTests</AssemblyName>
+    <AssemblyName>TheFlyingSaucer.DataTests</AssemblyName>
 
-    <RootNamespace>FlyingSaucer.DataTests</RootNamespace>
+    <RootNamespace>TheFlyingSaucer.DataTests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

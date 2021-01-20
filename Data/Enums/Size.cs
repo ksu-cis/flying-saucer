@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FlyingSaucer.Data.Enums
+namespace TheFlyingSaucer.Data.Enums
 {
     /// <summary>
     /// The sizes available for drinks and sides
