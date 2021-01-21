@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Nathan Bean
- * File name: Size.cs
- * Purpose: To unit test the size enumeration
+ * File name: SizeTests.cs
+ * Purpose: Unit testing the size enumeration
  */
 using System;
 using System.Collections.Generic;
@@ -12,7 +12,7 @@ using TheFlyingSaucer.Data.Enums;
 namespace TheFlyingSaucer.DataTests.Enums
 {
     /// <summary>
-    /// A class contianing unit tests for the Size enumeration
+    /// A class containing unit tests for the Size enumeration
     /// </summary>
     public class SizeTests
     {
